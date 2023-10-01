@@ -1,0 +1,43 @@
+
+
+   
+.box{
+  width: 400px;
+  height: 920px;
+    background-color: aliceblue;
+    border: 1px solid black;
+    margin: auto;
+}
+.library{
+    width: 390px;
+    height: 30px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 5px;
+    align-items: center;
+    padding-left: 140px;
+}
+.book{
+    width: 390px;
+    height: 280px;
+    border: 1px solid black;
+    background-color: azure;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.book>img{
+    
+    padding-left: 0px;
+    padding-bottom:80px !important;
+    
+
+
+}
+.book-list{
+    padding-bottom: 110px;
+}
+.img{
+    padding-left: 100px;
+}
